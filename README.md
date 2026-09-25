@@ -1,2 +1,2 @@
 <h1 align="center">Hello</h1>
-I'm a rabbit
+<p align=center>I'm a rabbit. I make stuff!</p>
